@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+}
+
+.post {
+    background-color: white;
+    width: 350px;
+    height: 500px;
+    margin: auto;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+    margin: 12px 10px 5px 12px;
+}
+
+.header-left {
+    display: flex;
+}
+
+h5 {
+    margin: 10px 0px 3px 0px;
+    font-size: 80%;
+}
+
+.titulo {
+    margin: 0px 0px 5px 0px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.iconpuntitos {
+    margin: 12px 7px 5px 0px;
+}
+
+.iconos {
+    display: flex;
+}
+
+.icono-heart {
+    margin: 10px 5px 10px 10px;
+}
+
+.icono-comment {
+    margin: 10px 5px 10px 10px;
+}
+
+.icono-plane {
+    margin: 10px 5px 10px 10px;
+}
+
+.icono-save {
+    margin: 10px 5px 10px 170px;
+}
+
+.likes {
+    font-size: 13px;
+    margin: 15px 0px 0px 10px;
+}
+
+.descripcion {
+    font-size: 15px;
+    margin: 10px 0px 0px 10px;
+}
